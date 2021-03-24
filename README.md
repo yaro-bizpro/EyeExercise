@@ -1,6 +1,6 @@
 # Eyes
 ## Exercise on eyes
-<img src= "eyes.png" width='300'/>
+
 
 ## Project Description
 This exercise enables the user to have a set of eyes follow mouse movement on the webpage browser. This demonstrates the joint dynamic application of HTML, JavaScript and CSS.   
